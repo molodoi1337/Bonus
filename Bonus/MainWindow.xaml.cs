@@ -61,7 +61,6 @@ namespace GuessNumberGame
                 }
 
                 guessNumberTextBox.Text = "";
-                guessNumberTextBox.Focus();
             }
             else
             {
